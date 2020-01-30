@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rupeish/medhelp/issues"
   },
-  "homepage": "https://github.com/rupeish/medhelp#readme"
+  "homepage": "https://github.com/rupeish/medhelp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
